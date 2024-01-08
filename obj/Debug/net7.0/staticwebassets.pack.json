@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Anton-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Anton-Regular.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Anton-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Anton-Regular.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\FredokaOne-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\FredokaOne-Regular.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\FredokaOne-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\FredokaOne-Regular.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-BlackItalic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-BlackItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-BlackItalic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Italic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Italic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Italic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Italic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-LightItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-LightItalic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-LightItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-LightItalic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-MediumItalic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-MediumItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-MediumItalic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Thin.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-Thin.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-ThinItalic.woff",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-ThinItalic.woff"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\Roboto-ThinItalic.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-ThinItalic.woff2"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\fonts\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\demo.html"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\akdjahkd.png",
+      "PackagePath": "staticwebassets\\images\\akdjahkd.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\background.png",
+      "PackagePath": "staticwebassets\\images\\background.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\background2.png",
+      "PackagePath": "staticwebassets\\images\\background2.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\emoji.png",
+      "PackagePath": "staticwebassets\\images\\emoji.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\facebook icon.png",
+      "PackagePath": "staticwebassets\\images\\facebook icon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\folhas.png",
+      "PackagePath": "staticwebassets\\images\\folhas.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\formas.png",
+      "PackagePath": "staticwebassets\\images\\formas.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\formatura.png",
+      "PackagePath": "staticwebassets\\images\\formatura.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\insicon.png",
+      "PackagePath": "staticwebassets\\images\\insicon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\instagram icon 1.png",
+      "PackagePath": "staticwebassets\\images\\instagram icon 1.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\instagram icon.png",
+      "PackagePath": "staticwebassets\\images\\instagram icon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\instaicon.png",
+      "PackagePath": "staticwebassets\\images\\instaicon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\leoimg.png",
+      "PackagePath": "staticwebassets\\images\\leoimg.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\leoimg1.png",
+      "PackagePath": "staticwebassets\\images\\leoimg1.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\linkedin icon.png",
+      "PackagePath": "staticwebassets\\images\\linkedin icon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\old paper.jpg",
+      "PackagePath": "staticwebassets\\images\\old paper.jpg"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\prancheta.ico",
+      "PackagePath": "staticwebassets\\images\\prancheta.ico"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\profile.png",
+      "PackagePath": "staticwebassets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\secondperfilicon.png",
+      "PackagePath": "staticwebassets\\images\\secondperfilicon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\skills.png",
+      "PackagePath": "staticwebassets\\images\\skills.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\teste.png",
+      "PackagePath": "staticwebassets\\images\\teste.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\images\\whatsicon.png",
+      "PackagePath": "staticwebassets\\images\\whatsicon.png"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\helpers\\_fonts.scss",
+      "PackagePath": "staticwebassets\\sass\\helpers\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\helpers\\_reset.scss",
+      "PackagePath": "staticwebassets\\sass\\helpers\\_reset.scss"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\main.css",
+      "PackagePath": "staticwebassets\\sass\\main.css"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\sass\\main.css.map"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\pages\\_home.scss",
+      "PackagePath": "staticwebassets\\sass\\pages\\_home.scss"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\shared\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\shared\\_footer.scss"
+    },
+    {
+      "Id": "C:\\pessoal\\portfolio\\wwwroot\\sass\\shared\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\shared\\_header.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.portfolio.props",
+      "PackagePath": "build\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.portfolio.props",
+      "PackagePath": "buildMultiTargeting\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.portfolio.props",
+      "PackagePath": "buildTransitive\\portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

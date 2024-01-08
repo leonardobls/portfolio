@@ -1,0 +1,136 @@
+.home{
+    position: relative;
+
+    .banner{
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+
+        .left{
+            width: 60%;
+            height: 100%;
+            background: #FFF;
+            display: flex;
+            align-items: center;
+            padding-left: 15rem;
+
+            .presentation{
+                h1{
+                    font-size: 3.5rem;
+                    font-family: 'Fredoka One';
+                    letter-spacing: 0.3rem;
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    margin-bottom: 1rem;
+                }
+
+                .complement{
+                    font-size: 4rem;
+                    font-family: 'Anton';
+                    font-weight: 700;
+                    text-transform: uppercase;
+                    margin-bottom: 3rem;
+                    letter-spacing: 0.3rem;
+                }
+
+                .experience{
+                    font-size: 1.8rem;
+                    font-family: 'Roboto';
+                    line-height: 120%;
+                    font-weight: 400;
+                    margin-bottom: 5rem;
+                }
+
+                .button{
+                    font-size: 1.5rem;
+                    font-family: 'Roboto';
+                    font-weight: 700;
+                    margin-bottom: 3rem;
+                    color: #6F57E6;
+                    text-transform: uppercase;
+                    display: flex;
+                    align-items: center;
+                    gap: 1rem;
+                    position: relative;
+                    width: fit-content;
+
+                    &:after{
+                        content: '';
+                        width: 100%;
+                        height: 2px;
+                        background: #6F57E6;
+                        position: absolute;
+                        bottom: -0.5rem;
+                        left: 0;
+                    }
+                }
+            }
+        }
+
+        .right{
+            padding: 10rem 5rem 10rem 0;
+            height: 100%;
+            width: 40%;
+            .image{
+                margin-left: -10rem;
+                img{
+                    top: -8rem;
+                    left: 86rem;
+                    position: absolute;
+                    z-index: 1000;
+                    width: 125rem;
+                    height: 125rem;
+                    object-fit: contain;
+                }
+            }
+        }
+
+        strong{
+            color: #6F57E6;
+        }
+
+        .floating-card-1{
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            object-fit: contain;
+            left: 46%;
+            top: 61%;
+        }
+        
+        .floating-card-2{
+            position: absolute;
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            left: 92%;
+            top: 21%;
+            transform: rotate(-180deg);
+        }
+        
+        .floating-card-3{
+            position: absolute;
+            width: 15rem;
+            height: 15rem;
+            -o-object-fit: contain;
+            object-fit: contain;
+            left: 57%;
+            top: 11%;
+            transform: rotate(91deg);
+        }
+        
+        .floating-card-4{
+            position: absolute;
+            width: 20rem;
+            height: 20rem;
+            -o-object-fit: contain;
+            object-fit: contain;
+            left: 89%;
+            top: 85%;
+            transform: rotate(-65deg);
+        }
+    }  
+}

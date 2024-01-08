@@ -1,0 +1,445 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+strong {
+  font-weight: bold;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+  font-weight: normal;
+  background: #DADDE1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea,
+html input[type=button],
+input[type=reset],
+input[type=submit],
+button[disabled],
+html input[disabled],
+button::-moz-focus-inner,
+input::-moz-focus-inner,
+input[type=checkbox],
+input[type=radio],
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button,
+input[type=search],
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-decoration {
+  border: none;
+  background-image: none;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+@font-face {
+  font-family: "Anton";
+  src: url("/fonts/Anton-Regular.woff2") format("woff2"), url("/fonts/Anton-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-BlackItalic.woff2") format("woff2"), url("/fonts/Roboto-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Black.woff2") format("woff2"), url("/fonts/Roboto-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Bold.woff2") format("woff2"), url("/fonts/Roboto-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Medium.woff2") format("woff2"), url("/fonts/Roboto-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-LightItalic.woff2") format("woff2"), url("/fonts/Roboto-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-BoldItalic.woff2") format("woff2"), url("/fonts/Roboto-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Light.woff2") format("woff2"), url("/fonts/Roboto-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-MediumItalic.woff2") format("woff2"), url("/fonts/Roboto-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Italic.woff2") format("woff2"), url("/fonts/Roboto-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Regular.woff2") format("woff2"), url("/fonts/Roboto-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Thin.woff2") format("woff2"), url("/fonts/Roboto-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-ThinItalic.woff2") format("woff2"), url("/fonts/Roboto-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fredoka One";
+  src: url("/fonts/FredokaOne-Regular.woff2") format("woff2"), url("/fonts/FredokaOne-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10rem;
+  z-index: 10000;
+  transition: 0.3s all ease;
+}
+.header.active {
+  background: white;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+  transition: 0.3s all ease;
+}
+.header .welcome {
+  font-size: 2.5rem;
+  font-family: "Roboto";
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FFF;
+  background: #A69AE1;
+  padding: 1rem 2.5rem;
+  border-radius: 1.5rem;
+}
+.header .pages {
+  display: flex;
+  gap: 2rem;
+}
+.header .pages .link a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "Roboto";
+  color: #6F57E6;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.footer {
+  display: none;
+}
+
+.home {
+  position: relative;
+}
+.home .banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.home .banner .left {
+  width: 60%;
+  height: 100%;
+  background: #FFF;
+  display: flex;
+  align-items: center;
+  padding-left: 15rem;
+}
+.home .banner .left .presentation h1 {
+  font-size: 3.5rem;
+  font-family: "Fredoka One";
+  letter-spacing: 0.3rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.home .banner .left .presentation .complement {
+  font-size: 4rem;
+  font-family: "Anton";
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 3rem;
+  letter-spacing: 0.3rem;
+}
+.home .banner .left .presentation .experience {
+  font-size: 1.8rem;
+  font-family: "Roboto";
+  line-height: 120%;
+  font-weight: 400;
+  margin-bottom: 5rem;
+}
+.home .banner .left .presentation .button {
+  font-size: 1.5rem;
+  font-family: "Roboto";
+  font-weight: 700;
+  margin-bottom: 3rem;
+  color: #6F57E6;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.home .banner .left .presentation .button:after {
+  content: "";
+  width: 100%;
+  height: 2px;
+  background: #6F57E6;
+  position: absolute;
+  bottom: -0.5rem;
+  left: 0;
+}
+.home .banner .right {
+  padding: 10rem 5rem 10rem 0;
+  height: 100%;
+  width: 40%;
+}
+.home .banner .right .image {
+  margin-left: -10rem;
+}
+.home .banner .right .image img {
+  top: -8rem;
+  left: 86rem;
+  position: absolute;
+  z-index: 1000;
+  width: 125rem;
+  height: 125rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.home .banner strong {
+  color: #6F57E6;
+}
+.home .banner .floating-card-1 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  left: 46%;
+  top: 61%;
+}
+.home .banner .floating-card-2 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  -o-object-fit: contain;
+     object-fit: contain;
+  left: 92%;
+  top: 21%;
+  transform: rotate(-180deg);
+}
+.home .banner .floating-card-3 {
+  position: absolute;
+  width: 15rem;
+  height: 15rem;
+  -o-object-fit: contain;
+  object-fit: contain;
+  left: 57%;
+  top: 11%;
+  transform: rotate(91deg);
+}
+.home .banner .floating-card-4 {
+  position: absolute;
+  width: 20rem;
+  height: 20rem;
+  -o-object-fit: contain;
+  object-fit: contain;
+  left: 89%;
+  top: 85%;
+  transform: rotate(-65deg);
+}/*# sourceMappingURL=main.css.map */
